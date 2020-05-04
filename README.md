@@ -1,5 +1,7 @@
 # rhosp13 openstack-cinder-volume-pure creation
 
+### additional referrence : https://github.com/PureStorage-OpenConnect/tripleo-deployment-configs
+
 ```bash
 mkdir docker-pure
 cd docker-pure
